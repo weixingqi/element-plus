@@ -7,7 +7,7 @@
   </el-button-group>
 
   <el-button-group class="ml-4">
-    <el-button type="primary" :icon="Edit" />
+    <el-button :icon="Edit" />
     <el-button type="primary" :icon="Share" />
     <el-button type="primary" :icon="Delete" />
   </el-button-group>
